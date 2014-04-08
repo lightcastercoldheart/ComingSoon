@@ -29,6 +29,9 @@ $_CONFIG['photo']['alt'] = 'Placeholder';
 $_CONFIG['photo']['height_px'] = 72;
 // -- Width in pixels
 $_CONFIG['photo']['width_px'] = 493;
+
+/** changed background to black, removed text
+
 // Google Analytics Account ID; optional
 $_CONFIG['google_analytics_account_id'] = '';
 // Top caption; optional
@@ -42,3 +45,5 @@ $_CONFIG['caption_bottom']['content'] = '<h2>Stay tuned for details.</h2>';
 $_CONFIG['caption_bottom']['content'] .= '<div>This site has not yet launched.</div>';
 // -- CSS Height, include units
 $_CONFIG['caption_bottom']['height'] = '100px';
+
+*/
